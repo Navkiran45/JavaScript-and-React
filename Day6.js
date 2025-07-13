@@ -1,4 +1,4 @@
-// Arrays, Loops
+// Arrays and Loops
 
 // Problem 1: List numbers from 1 to 100 with specific conditions without using loops
 function listOfNumbers(x) {
